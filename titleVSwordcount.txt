@@ -1,0 +1,63 @@
+[1] "loaded libraries"
+[1] "files"
+[1] "loaded"
+[1] 0
+[1] 0
+[1] 0
+
+Call:
+lm(formula = body3$V1 ~ titleLengths)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+ -12149   -4179   -1440    1849 1019021 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   5485.39      84.45  64.957   <2e-16 ***
+titleLengths   125.98      14.00   8.996   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 9659 on 47155 degrees of freedom
+Multiple R-squared:  0.001713,	Adjusted R-squared:  0.001692 
+F-statistic: 80.93 on 1 and 47155 DF,  p-value: < 2.2e-16
+
+
+Call:
+lm(formula = body3$V2 ~ titleLengths)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-117199  -44999  -14414   21463 4481036 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   58217.1      696.3    83.6   <2e-16 ***
+titleLengths   1178.0      115.5    10.2   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 79650 on 47155 degrees of freedom
+Multiple R-squared:  0.002202,	Adjusted R-squared:  0.002181 
+F-statistic: 104.1 on 1 and 47155 DF,  p-value: < 2.2e-16
+
+
+Call:
+lm(formula = body3$V3 ~ titleLengths)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+ -790347  -263135   -89102   121585 31195582 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  334649.5     4264.4   78.48   <2e-16 ***
+titleLengths   8612.0      707.2   12.18   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 487800 on 47155 degrees of freedom
+Multiple R-squared:  0.003135,	Adjusted R-squared:  0.003114 
+F-statistic: 148.3 on 1 and 47155 DF,  p-value: < 2.2e-16
+

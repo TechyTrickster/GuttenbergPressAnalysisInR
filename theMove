@@ -1,0 +1,11 @@
+
+moveIt()
+{
+	echo $1
+	cp "$(find $1 -maxdepth 1 | grep ".*txt$" | head -n1)" /media/pi/TOSHIBA_EXT/theData/
+}
+
+export -f moveIt
+rm -r /media/pi/TOSHIBA_EXT/theData/
+mkdir /media/pi/TOSHIBA_EXT/theData/
+find $(pwd) -type d | xargs -d '\n' -I{} bash -c "moveIt {}"

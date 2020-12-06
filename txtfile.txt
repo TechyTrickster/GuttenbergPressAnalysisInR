@@ -1,0 +1,77 @@
+ 10002:33:0:he:The House on the Borderland:10002
+ 10004:82:0:he:The Warriors:10004
+ 10001:10:0:he:Apocolocyntosis:10001
+ 10000:69:0:he:The Magna Carta:10000
+ 10003:133:0:he:My First Years As A Frenchwoman, 1876-1879:10003
+ 10007:35:0:he:Carmilla:10007
+ 10006:4:0:he:La Fiammetta:10006
+ 10005:142:0:he:A Voyage to the Moon:10005
+ 10008:159:0:he:The Mystery:10008
+ 10009:163:0:he:Wild Northern Scenes:10009
+ 10010:57:0:he:The Eulogies of Howard:10010
+ 10011:0:0:he:365 Foreign Dishes:10011
+ 10012:57:0:he:The Mountains of California:10012
+ 10013:7:0:he:Punchinello, Vol. 1, No. 9, May 28, 1870:10013
+ 10015:15:0:he:Punchinello, Vol. 1, No. 19, August 6, 1870:10015
+ 10014:15:0:he:Punchinello, Vol. 1, No. 18, July 30, 1870:10014
+ 10016:73:0:he:Punchinello Vol. 1, No. 21, August 20, 1870:10016
+ 10017:7:0:he:Punchinello, Vol. 1, No. 23,  September 3, 1870:10017
+ 10018:9:0:he:Punchinello, Vol. 1, No. 5,  April 30, 1870:10018
+ 100-0:507:0:he:The Complete Works of William Shakespeare:100
+ 10019:8:0:he:Punchinello, Vol. 1, No. 22, August 27, 1870:10019
+ 1001:92:0:he:Divine Comedy, Longfellow's Translation, Hell:1001
+ 10020:108:0:he:The Strand Magazine; Volume VII, Issue 37. January, 1894.:10020
+ 10021:4:0:he:Tenterhooks:10021
+ 10023:64:0:he:There's Pippins And Cheese To Come:10023
+ 10022:59:0:he:White Queen of the Cannibals; The Story of Mary Slessor:10022
+ 10024:13:0:he:Beneath the Banner:10024
+ 10026:18:0:he:The Mirror of Literature, Amusement, and Instruction, Vol. 10,:10026
+ 10025:110:0:he:Gaslight Sonatas:10025
+ 10028:36:0:he:Spalding's Official Baseball Guide - 1913:10028
+ 10027:139:0:he:The Triple Alliance:10027
+ 10029:153:0:he:The Hunt Ball Mystery:10029
+ 10030:12:0:he:The Life of Hon. William F. Cody:10030
+ 10033:12:0:he:Punchinello, Vol. 1, No. 25, September 17, 1870:10033
+ 10031:62:0:he:Edgar Allan Poe's Complete Poetical Works:10031
+ 10032:8:0:he:Punchinello, Vol. 1, No. 24, September 10, 1870:10032
+ 10034:66:0:he:Punchinello, Vol. 1, No. 26, September 24, 1870:10034
+ 10035:16:0:he:Punchinello, Vol. 2, No. 27, October 1, 1870:10035
+ 10036:10:0:he:Punchinello Vol. 2, No. 28, October 8, 1870:10036
+ 10037:158:0:he:A Beautiful Possibility:10037
+ 10038:99:0:he:The Magnetic North:10038
+ 10040:1:0:he:Alaska Indian Dictionary:10040
+ 10041:181:0:he:The Rivet in Grandfather's Neck:10041
+ 10039:242:0:he:The Works of Aphra Behn, Vol. III:10039
+ 10042:117:0:he:The Child Under Eight:10042
+ 10043:17:0:he:Klondyke Nuggets:10043
+ 10044:73:0:he:The Father of British Canada; A Chronicle of Carleton:10044
+ 10045:65:0:he:Dave Darrin's Second Year at Annapolis:10045
+ 10046:7:0:he:Salute to Adventurers:10046
+ 10047:77:0:he:Punchinello, Vol. 2, No. 29, October 15, 1870:10047
+ 10048:56:0:he:Billie Bradley and Her Inheritance:10048
+ 10049:5:0:he:Old Lady Mary:10049
+ 10050:40:0:he:A Little Pilgrim:10050
+ 10051:101:0:he:The Little Pilgrim; Further Experiences.:10051
+ 10052-0:78:0:he:The Open Door, and the Portrait.:10052
+ 10052:79:0:he:The Open Door, and the Portrait.:10052
+ 10057:152:0:he:The Secret of the Tower:10057
+ 10056:13:0:he:Chinese Literature:10056
+ 10059:109:0:he:Aunt Jane's Nieces on Vacation:10059
+ 10058:48:0:he:The Divine Office:10058
+ 1005:78:0:he:Hell:1005
+ 10060:51:0:he:Discourses:10060
+ 10062:61:0:he:The Iron Game:10062
+ 10063:36:0:he:Happiness and Marriage:10063
+ 10064:99:0:he:Beltane The Smith:10064
+ 10065:8:0:he:The Constitution of the United States:10065
+ 10066:55:0:he:Gunman's Reckoning:10066
+ 10068:204:0:he:The Power and the Glory:10068
+ 10069:2:0:he:Account of the Romansh Language:10069
+ 10067:34:0:he:The Mystery Of The Boule Cabinet:10067
+ 10070:116:0:he:Stories of Great Americans for Little Americans:10070
+ 1006:65:0:he:The Divine Comedy of Dante;  Purgatory:1006
+ 10071:20:0:he:By-Ways of Bombay:10071
+ 10072:0:0:he:English Housewifery Exemplified:10072
+ 10075:12:0:he:A Narrative of the Life and Adventures of Venture, a Native of:10075
+ 10074:5:0:he:The Mirror of Literature, Amusement, and Instruction, Vol. 10,:10074
+ 10076:51:0:he:Lister's Great Adventure:10076
